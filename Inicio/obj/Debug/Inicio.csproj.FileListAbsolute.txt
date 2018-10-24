@@ -1,0 +1,15 @@
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\bin\Debug\Inicio.exe.config
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\bin\Debug\Inicio.exe
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\bin\Debug\Inicio.pdb
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Form1.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Interfaz.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.exe
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.pdb
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Categorias.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Facturas.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Informacion.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Inicio.resources
+c:\users\elias\documents\visual studio 2013\Projects\Inicio\Inicio\obj\Debug\Inicio.Logo.resources

@@ -1,0 +1,5 @@
+Usuario: Elias
+password: 1234
+
+La aplicacion todavia no cuenta con base de datos, por lo tanto solo hay un usuario de momento, en esta version de la aplicacion se muestra lo que es el prototipo 
+de la interfaz de usuario, por ende no esta al 100%. En la entrega final la interfaz de usuario estara al 100% incluyendo su base de datos he interfaz de administrador.
